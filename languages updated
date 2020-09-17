@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+ 
+ 	<element name="Demacian" type="Language" source="Runeterra" id="ID_MM_LANGUAGE_DEMACIAN">
+		<supports>Monster</supports>
+		<description>
+			<p>Typically spoken by demacians.</p>
+		</description>
+	</element>
+
+	<element name="Freljordian" type="Language" source="Runeterra" id="ID_MM_LANGUAGE_FRELJORDIAN">
+		<supports>Monster</supports>
+		<description>
+			<p>Typically spoken by freljordians.</p>
+		</description>
+	</element>
+
+	<element name="Noxian" type="Language" source="Runeterra" id="ID_MM_LANGUAGE_NOXIAN">
+		<supports>Monster</supports>
+		<description>
+			<p>Typically spoken by naxians.</p>
+		</description>
+	</element>
+
+	<element name="Shuriman" type="Language" source="Runeterra" id="ID_MM_LANGUAGE_SHURIMAN">
+		<supports>Monster</supports>
+		<description>
+			<p>Typically spoken by shurimans.</p>
+		</description>
+	</element>
+
+	<element name="Targonian" type="Language" source="Runeterra" id="ID_MM_LANGUAGE_TARGONIAN">
+		<supports>Monster</supports>
+		<description>
+			<p>Typically spoken by targonians.</p>
+		</description>
+	</element>
+
+	<element name="Ionian" type="Language" source="Runeterra" id="ID_MM_LANGUAGE_IONIANS">
+		<supports>Monster</supports>
+		<description>
+			<p>Typically spoken by ionians.</p>
+		</description>
+	</element>
+
+	<element name="Yoosesh" type="Language" source="Runeterra" id="ID_MM_LANGUAGE_YOOSESH">
+		<supports>Monster</supports>
+		<description>
+			<p>Typically spoken by yordle.</p>
+		</description>
+	</element>
+
+	<element name="Vastayan" type="Language" source="Runeterra" id="ID_MM_LANGUAGE_VASTAYAN">
+		<supports>Monster</supports>
+		<description>
+			<p>Typically spoken by vastayans.</p>
+		</description>
+	</element>
+
+
+</elements>
